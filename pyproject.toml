@@ -13,6 +13,7 @@ pytz = "^2022.1"
 tornado = ">=5.0"
 tqdm = "^4.64.0"
 ujson = "^5.4.0"
+cairo-lang = "^0.9.1"
 
 [tool.poetry.dev-dependencies]
 pylint = ">=2.3.0"

@@ -3,6 +3,11 @@
 game state
 https://github.com/deepmind/diplomacy
 https://github.com/diplomacy/diplomacy
+http://uk.diplom.org/pouch/Zine/F2013R/Bruse/adjudicator.htm
+
+https://starknet.io/docs/how_cairo_works/hints.html
+https://hackmd.io/@RoboTeddy/BJZFu56wF
+starknet-compile diplomacy/contracts/game.cairo --output demo_compiled.json --abi demo_abi.json
 
 commit reveal
 https://github.com/beautyisourbusiness/cairo-goldmine
@@ -15,6 +20,8 @@ submit message with digital signature
 
 buyin
 total claim <= 1 -> game end
+
+https://github.com/trialityorg/starknet-house-session
 
 Forked from https://github.com/diplomacy/diplomacy
 
