@@ -1,3 +1,23 @@
+# Diplomacy on Starknet
+
+game state
+https://github.com/deepmind/diplomacy
+https://github.com/diplomacy/diplomacy
+
+commit reveal
+https://github.com/beautyisourbusiness/cairo-goldmine
+
+factory
+https://medium.com/starkware/starknet-alpha-0-9-0-dce43cf13490
+
+press
+submit message with digital signature
+
+buyin
+total claim <= 1 -> game end
+
+Forked from https://github.com/diplomacy/diplomacy
+
 # Diplomacy: DATC-Compliant Game Engine [![Build Status](https://travis-ci.org/diplomacy/diplomacy.svg?branch=master)](https://travis-ci.org/diplomacy/diplomacy) [![Documentation Status](https://readthedocs.org/projects/diplomacy/badge/?version=latest)](https://diplomacy.readthedocs.io/en/latest/?badge=latest)
 
 This project contains an open-source DATC-compliant Diplomacy game engine, a client-server architecture for network play, a web interface to play against bots and to visualize games, and a DAIDE-compatible adapter to connect DAIDE bots to the server.
